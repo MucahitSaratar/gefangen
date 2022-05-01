@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.1
+Type=Application
+Terminal=false
+Exec=/opt/all2done/gefangen
+Name=all2done
+Icon=/opt/all2done/all2done.png
